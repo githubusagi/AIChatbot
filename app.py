@@ -6,7 +6,7 @@ import os
 
 load_dotenv()  # .envファイルから環境変数を読み込む
 
-openai.api_key = os.getenv("OPENAI_API_KEY")
+openai.api_key = st.secrets['openai.api_key']
 
 # OpenAIのAPIキーを設定
 #openai.api_key = ""
@@ -135,7 +135,7 @@ character_emotion_images = {
         "Sad": "images/ハチワレ表情/ハチワレ表情悲しみ.jpg",
         "Default": "images/ハチワレ表情/ハチワレ表情喜び.jpg",
         "POSITIVE":"images/ハチワレ表情/ハチワレ表情楽しみ.jpg",
-        "NEGATIVE":"images/ハチワレ表情/ハチワレ表情喜び.jpg",
+        "NEGATIVE":"images/ハチワレ表情/ハチワレ表情悲しみ.jpg",
         "NEUTRAL":"images/ハチワレ表情/ハチワレ表情喜び.jpg",
         # その他の感情に対する画像パス...        
     },
