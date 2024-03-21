@@ -134,9 +134,9 @@ character_emotion_images = {
         "Angry": "images/ハチワレ表情/ハチワレ表情怒り.jpg",
         "Sad": "images/ハチワレ表情/ハチワレ表情悲しみ.jpg",
         "Default": "images/ハチワレ表情/ハチワレ表情喜び.jpg",
-        "POSITIVE":"images/ハチワレ表情/ハチワレ表情楽しみ.jpg",
-        "NEGATIVE":"images/ハチワレ表情/ハチワレ表情悲しみ.jpg",
-        "NEUTRAL":"images/ハチワレ表情/ハチワレ表情喜び.jpg",
+        "POSITIVE":"images/ハチワレ表情/ハチワレ表情楽しみ2.jpg",
+        "NEGATIVE":"images/ハチワレ表情/ハチワレ表情悲しみ2.jpg",
+        "NEUTRAL":"images/ハチワレ表情/ハチワレ表情喜び2.jpg",
         # その他の感情に対する画像パス...        
     },
     "ちいかわっぽいAI": {
@@ -144,9 +144,9 @@ character_emotion_images = {
         "Angry": "images/ちいかわ表情/ちいかわ表情怒り.jpg",
         "Sad": "images/ちいかわ表情/ちいかわ表情悲しみ.jpg",
         "Default": "images/ちいかわ表情/ちいかわ表情喜び.jpg",
-        "POSITIVE":"images/ちいかわ表情/ちいかわ表情楽しみ.jpg",
-        "NEGATIVE":"images/ちいかわ表情/ちいかわ表情悲しみ.jpg",
-        "NEUTRAL":"images/ちいかわ表情/ちいかわ表情喜び.jpg",
+        "POSITIVE":"images/ちいかわ表情/ちいかわ表情楽しみ2.jpg",
+        "NEGATIVE":"images/ちいかわ表情/ちいかわ表情悲しみ2.jpg",
+        "NEUTRAL":"images/ちいかわ表情/ちいかわ表情喜び2.jpg",
         # その他の感情に対する画像パス...
     },
     # 他のキャラクターに対するマッピング...
@@ -156,20 +156,20 @@ character_emotion_images = {
         "Angry": "images/うさぎ表情/うさぎ表情怒り.jpg",
         "Sad": "images/うさぎ表情/うさぎ表情悲しみ.jpg",
         "Default": "images/うさぎ表情/うさぎ表情喜び.jpg",
-        "POSITIVE":"images/うさぎ表情/うさぎ表情楽しみ.jpg",
-        "NEGATIVE":"images/うさぎ表情/うさぎ表情悲しみ.jpg",
-        "NEUTRAL":"images/うさぎ表情/うさぎ表情喜び.jpg",
+        "POSITIVE":"images/うさぎ表情/うさぎ表情楽しみ2.jpg",
+        "NEGATIVE":"images/うさぎ表情/うさぎ表情悲しみ2.jpg",
+        "NEUTRAL":"images/うさぎ表情/うさぎ表情喜び2.jpg",
         # その他の感情に対する画像パス...
     },
 
     "モモンガっぽいAI": {
-        "Happy": "images/モモンガ表情/モモンガ表情楽しみ.jpg",
+        "Happy": "images/モモンガ表情/モモンガ表情楽しみ2.jpg",
         "Angry": "images/モモンガ表情/モモンガ表情怒り.jpg",
-        "Sad": "images/モモンガ表情/モモンガ表情悲しみ.jpg",
+        "Sad": "images/モモンガ表情/モモンガ表情悲しみ2.jpg",
         "Default": "images/モモンガ表情/モモンガ表情喜び.jpg",
-        'POSITIVE':"images/モモンガ表情/モモンガ表情楽しみ.jpg",
-        'NEGATIVE':"images/モモンガ表情/モモンガ表情悲しみ.jpg",
-        'NEUTRAL':"images/モモンガ表情/モモンガ表情怒り.jpg",
+        'POSITIVE':"images/モモンガ表情/モモンガ表情楽しみ2.jpg",
+        'NEGATIVE':"images/モモンガ表情/モモンガ表情悲しみ2.jpg",
+        'NEUTRAL':"images/モモンガ表情/モモンガ表情怒り2.jpg",
         # その他の感情に対する画像パス...
     },
 }
