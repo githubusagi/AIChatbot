@@ -158,7 +158,7 @@ character_emotion_images = {
         "Default": "images/うさぎ表情/うさぎ表情喜び.jpg",
         "POSITIVE":"images/うさぎ表情/うさぎ表情楽しみ2.jpg",
         "NEGATIVE":"images/うさぎ表情/うさぎ表情悲しみ2.jpg",
-        "NEUTRAL":"images/うさぎ表情/うさぎ表情喜び2.jpg",
+        "NEUTRAL":"images/うさぎ表情/うさぎ表情喜び2.jpg",
         # その他の感情に対する画像パス...
     },
 
