@@ -168,7 +168,7 @@ character_emotion_images = {
         "Sad": "images/モモンガ表情/モモンガ表情悲しみ2.jpg",
         "Default": "images/モモンガ表情/モモンガ表情喜び2.jpg",
         'POSITIVE':"images/モモンガ表情/モモンガ表情楽しみ2.jpg",
-        'NEGATIVE':"images/モモンガ表情/モモンガ表情悲しみ2.jpg",
+        'NEGATIVE':"images/モモンガ表情/モモンガ表情悲しみ2.jpg",
         'NEUTRAL':"images/モモンガ表情/モモンガ表情喜び2.jpg",
         # その他の感情に対する画像パス...
     },
